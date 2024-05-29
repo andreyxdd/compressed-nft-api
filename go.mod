@@ -14,7 +14,7 @@ require (
 	github.com/mdp/qrterminal/v3 v3.2.0
 	github.com/rs/zerolog v1.29.1
 	github.com/spf13/cobra v1.7.0
-	github.com/xssnick/tonutils-go v1.8.8
+	github.com/xssnick/tonutils-go v1.9.7
 )
 
 require (
